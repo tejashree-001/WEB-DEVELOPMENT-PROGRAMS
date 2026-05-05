@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="data.xsl"?>
+<students>
+    <student>
+        <name>Rahul Sharma</name>
+        <rollno>101</rollno>
+        <course>Computer Science</course>
+    </student>
+    <student>
+        <name>Priya Singh</name>
+        <rollno>102</rollno>
+        <course>Information Technology</course>
+    </student>
+    <student>
+        <name>Amit Patel</name>
+        <rollno>103</rollno>
+        <course>Electronics</course>
+    </student>
+</students>
